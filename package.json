@@ -1,0 +1,7 @@
+{
+  "name": "dotfiles",
+  "version": "0.1.0",
+  "description": "Meta information on my tools, configuration, and coding style.",
+  "author": "Kyle Coburn",
+  "license": "ISC"
+}
