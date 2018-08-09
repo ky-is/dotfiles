@@ -30,3 +30,5 @@ Comments are essentially warnings in my code, as otherwise I find them to be too
 - Always use a trailing comma for multi-line array/object declarations. Why? It ensures clean git commits. (I really don't understand how this isn't wider practice. Do people not look at git diffs?) JSON drives me mad because this is invalid syntax according to the spec (I'm looking at you, `package.json`).
 - Never use `else` after exiting control flow (`return`/`break`/`continue`) in an initial `if` statement. Redundancy like this makes me think the code isn't doing what it's intended.
 - Explicitly reference globals wherever possible (i.e. `window.alert`)
+
+## [VSCode](VSCode/README.md)
